@@ -1,0 +1,9 @@
+apiVersion: webapp.bjzdgt.com/v1
+kind: GuestBook
+metadata:
+  name: guestbook-sample
+spec:
+  # Add fields here
+  size: 1
+  configMapName: test
+  alias: haha

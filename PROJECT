@@ -1,0 +1,7 @@
+domain: bjzdgt.com
+repo: github.com/w-huaqiang/kubecat
+resources:
+- group: webapp
+  kind: GuestBook
+  version: v1
+version: "2"
